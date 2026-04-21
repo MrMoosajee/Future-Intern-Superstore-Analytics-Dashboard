@@ -1,0 +1,23 @@
+# Python / Environment
+__pycache__/
+*.py[cod]
+*$py.class
+.venv/
+venv/
+env/
+.env
+
+# Streamlit
+# (Ignores secrets but allows config.toml if you add one later)
+.streamlit/secrets.toml
+
+# IDEs and Editors
+.vscode/
+.idea/
+*.swp
+
+# OS Generated Files
+.DS_Store
+Thumbs.db
+
+# Data Files
