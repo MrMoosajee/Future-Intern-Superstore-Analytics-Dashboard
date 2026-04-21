@@ -3,7 +3,7 @@
 ## 📝 Project Overview
 This project provides an interactive, integrated dashboard for analyzing the sales and profitability of a fictional "Superstore." It is designed to help business owners and regional managers quickly identify performance trends, top-selling products, and areas of financial leakage.
 
-**Live Dashboard:** [Insert your Streamlit link here once deployed]
+**Live Dashboard:** https://your-superstore-app-name.streamlit.app
 
 ## 💡 Key Business Insights
 Based on the raw data analysis, here are the primary findings:
